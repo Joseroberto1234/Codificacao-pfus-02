@@ -1,0 +1,30 @@
+body{
+   background-color: honeydew;
+   padding: 0px;
+   margin: 0px;
+   text-align: center;
+}
+
+#principal{
+    width: 90%;
+    height: 800px;
+    background-color: brown;
+    margin: auto;
+    background-color: brown; linear-gradient(red 10%,white 60%,black);
+   background-repeat: no-repeat;
+    background-position: center;    
+}
+
+#principal{
+    width: 90%;
+    height: 800px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://th.bing.com/th/id/OIP.oCiuQWWxy0sZnmUNmTXQ8QHaEK?r=0&o=7rm=3&rs=1&pid=ImgDetMain);
+    background-size: auto;
+    background-repeat: repeat-x;
+    background-position: 50%;
+    background-attachment: fixed;
+
+}
+

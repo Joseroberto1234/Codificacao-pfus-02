@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
+body{
+    background-color: rgb(255, 73, 76);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+P{
+    background-color: beige;
+    color: black;
+    padding: 5px;
+}
+
+#na-direita{
+    text-align: right;
+
+}
+
+#na-esquerda{
+    text-align: left;
+}
+
+#no-centro{
+    text-align: center;
+}
+
+#justificado{
+    text-align:justify
+}
+
+#minusculo{
+    text-transform: lowercase;
+}
+
+#maiusculo{
+    text-transform: uppercase;
+}
+
+#capitalizado{
+    text-transform: capitalize;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    text-shadow: 5px 5px black;
+}
+#decorado{
+    text-decoration: overline underline black;
+    text-decoration: dashed;
+}
+
+#outra-fonte{
+    font-family: Impact, sans-serif;
+    color: blue;
+}
+
+#fonte-google{
+    font-family: "Sevillana", cursive;
+}
+ 
+@font-face{
+    font-family: "ManufacturingConsent";
+    src: url("./fontes/ManufacturingConsent-Regular.ttf");
+
+}
+
+#fonte-personalizada{
+    font-family: 'ManufacturingConsent';
+    font-size: 50px;
+}

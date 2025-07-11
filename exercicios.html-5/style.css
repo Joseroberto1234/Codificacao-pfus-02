@@ -1,18 +1,40 @@
-body{
-    background-color: rgb(0, 0, 0);
-    height: 2000px;
-    margin: 0px;
-    padding: 0px;
+#menu {
+  list-style: none;
+  font-size: 45px;
+  color: white;
 }
 
-ul{   
-    list-style: none;
-    color: white;   
+body {
+  background-image: url(https://rare-gallery.com/uploads/posts/565963-leo-messi-wallpaper.jpg);
+  background-repeat: no-repeat;
 }
 
-#nicouisab{
-    width: 90%;
-    height: 2000px;
-    background-image: url(https://www.portalautomotriz.com/sites/portalautomotriz.com/files/media/photos/1_mclaren_p1.jpg);
-    background-repeat: repeat-y;
+footer {
+  position: relative;
+  margin-top: 850px;
+  background-color: black;
+  width: 1898px;
+  height: 85px;
+  color: greenyellow;
+  font-size: 30px;
+  right: 8px;
+  display: inline-block;
+  
 }
+
+.TEXTO{
+    color: greenyellow;
+    font-size: 30px;
+    width: 30%;
+    text-align: center;
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
